@@ -5,6 +5,7 @@ I build AI web operators that automate repetitive work inside internal business 
 ## What I build
 
 - AI web operators for browser-based workflows
+- Personal Assistents
 - Automation for internal accounting and operational systems
 - Human-in-the-loop agents for sensitive actions
 - 1C-like / ERP-style workflow automation
