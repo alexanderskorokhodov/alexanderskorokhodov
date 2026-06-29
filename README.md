@@ -1,8 +1,8 @@
 # Alexander Skorokhodov
 
-### I build automation systems that connect AI, web workflows, data, and business operations.
+### I build systems that automate web workflows, business operations, and data-driven decisions.
 
-I help founders and technical teams turn messy manual processes into working software: browser agents, internal CRMs, market-data systems, monitoring, research pipelines, and fast technical prototypes.
+I work with founders and technical teams who need to turn manual or fragmented processes into reliable software: browser agents, internal CRMs, monitoring systems, data pipelines, dashboards, and AI-assisted workflows.
 
 [![Website](https://img.shields.io/badge/Website-alexanderskorokhodov.ru-black)](https://alexanderskorokhodov.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@alexanderbtw-229ED9?logo=telegram&logoColor=white)](https://t.me/alexanderbtw)
@@ -10,33 +10,41 @@ I help founders and technical teams turn messy manual processes into working sof
 
 ---
 
-## What I can build for you
+## Systems I build
 
-| Area | Result |
+| System type | Business result |
 | --- | --- |
-| 🤖 **AI browser agents** | Agents that navigate websites, read pages, fill forms, collect data, and ask for approval before sensitive actions. |
-| 🏗️ **Internal systems & CRM** | Custom tools for requests, assets, clients, tasks, permissions, reporting, and operational control. |
-| 📊 **Market-data infrastructure** | Ingestion, normalization, monitoring, arbitrage finding, signal research, dashboards, and exchange integrations. |
-| 🔌 **Workflow integrations** | Telegram, Chrome, local desktop apps, backend APIs, CRMs, dashboards, and internal tools connected into one flow. |
-| 🕸️ **Web scanners & monitoring** | Playwright/Crawlee-based scanners for websites, risk checks, reports, status tracking, and automated review pipelines. |
-| ⚡ **Technical prototypes** | Fast MVPs for founders who need to test a product, AI workflow, or automation idea before scaling. |
+| 🤖 **AI browser operators** | Agents that work inside real websites with task queues, approvals, logs, and human takeover. |
+| 🏗️ **Internal CRM / ERP systems** | Tools for requests, assets, clients, roles, reporting, and operational control. |
+| 📡 **Monitoring & data pipelines** | Real-time ingestion, normalization, alerts, dashboards, and system health tracking. |
+| 📊 **Research & decision systems** | Signal analysis, backtesting, metrics, reports, and data-driven strategy validation. |
+| 🔌 **Workflow integrations** | Telegram, Chrome, APIs, dashboards, local apps, and internal systems connected into one flow. |
+| 🧪 **Product prototypes** | Fast MVPs that validate a workflow, automation idea, or technical product before scaling. |
 
 ---
 
-## Experience map
+## Experience
 
-| Direction | Projects / examples | What it proves |
+| Area | Examples | What it proves |
 | --- | --- | --- |
-| 🤖 **AI Web Operator / Axler** | Browser task execution, local Chrome escalation, task console, approvals, logs | I can connect LLMs to real browser workflows with control and safety layers. |
-| 📈 **SpreadX / arbitrage systems** | SpreadX, SpreadX Layer 0/1/2, ArbitrageCrypto, ArbitrageV2 | I have built market-data pipelines, arbitrage finders, exchange adapters, and monitoring systems. |
-| 📊 **Signal research systems** | Telegram signal parsing, candle loading, strategy sweeps, MFE/MAE, win rate, profit factor | I can turn noisy signals into measurable research, backtests, and decision reports. |
-| 🏗️ **Business CRM / ERP systems** | SGH system, construction-company CRMs, request/accounting flows, asset-rental accounting | I have built practical internal systems for real companies, not only demos. |
-| 🧩 **Strategiex / affiliate platform** | Auth, referrals, affiliate ledger, admin flows, payout logic, exchange-account foundation | I can design product backends with roles, money flows, admin logic, and future exchange integrations. |
-| 📡 **FlowLens / monitoring infrastructure** | Data ingestion, event pipelines, Telegram/news feeds, workers, streaming APIs | I can build live data systems with ingestion, storage, delivery, and operational separation. |
-| 🗺️ **2GIS / AI summaries** | AI summary interface and structured review/insight workflows | I can package AI output into usable product interfaces. |
-| 🕸️ [**Check Your Website**](https://github.com/alexanderskorokhodov/CheckYourWebsite) | Crawl graph, rule engine, risk scoring, OpenAI enrichment, web report, PDF pipeline | I can build scanner products that combine deterministic logic with AI enrichment. |
-| 🔐 [**BTX Agent Gateway**](https://github.com/alexanderskorokhodov/btx-agent-gateway) | Compute-based access-control experiments for AI agents and API infrastructure | I can explore deeper technical primitives and turn them into developer tools. |
-| 🧪 **Hackathons & early projects** | CanSat, AppTime, Qt tools, PyGame, frontend experiments | Long-term pattern: building prototypes, interfaces, automation tools, and applied systems. |
+| **AI browser automation** | Axler / IlyaWebAgent | Browser execution, local Chrome escalation, approvals, task console, logs. |
+| **Market-data infrastructure** | SpreadX, Arbitrage systems, FlowLens | Real-time data ingestion, exchange adapters, monitoring, arbitrage detection, streaming APIs. |
+| **Business operations systems** | SGH, construction CRM, asset-rental accounting | Internal tools for real companies: requests, assets, users, reports, operational workflows. |
+| **Research systems** | Signal research, strategy sweeps, Telegram parsing | Turning noisy external signals into measurable metrics and decision reports. |
+| **Product backends** | Strategiex, affiliate platform | Auth, roles, referrals, ledgers, admin flows, payout logic, exchange-account architecture. |
+| **Scanner products** | Check Your Website | Crawling, rule engines, risk scoring, AI enrichment, reports, PDF generation. |
+| **AI product interfaces** | 2GIS AI summaries, dashboard workflows | Packaging AI output into product interfaces people can actually use. |
+| **Technical R&D** | BTX Agent Gateway | Exploring compute-based access control and agent infrastructure primitives. |
+
+---
+
+## How I usually work
+
+1. Map the workflow and define what should be automated.
+2. Build a small working prototype around the core action.
+3. Add logs, approvals, roles, and failure handling.
+4. Connect the system to real tools, data sources, and user flows.
+5. Prepare it for deployment, monitoring, and iteration.
 
 ---
 
