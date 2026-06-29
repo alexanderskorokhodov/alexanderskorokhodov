@@ -1,16 +1,15 @@
 # Alexander Skorokhodov
 
-I build internal software systems that help teams automate business workflows.
-
-My work is focused on practical tools for operations: dashboards, admin panels, data pipelines, reporting systems, and integrations between products that teams already use.
+I build AI web operators that automate repetitive work inside internal business systems: ERP tools, forms, spreadsheets, dashboards and browser-based workflows
 
 ## What I build
 
-- Internal tools for operations, clients, assets, and requests
-- Dashboards, monitoring, alerts, and reports
-- Data pipelines and integrations between services
-- Workflow automation with logs, roles, and approvals
-- MVP prototypes for new product ideas
+- AI web operators for browser-based workflows
+- Automation for internal accounting and operational systems
+- Human-in-the-loop agents for sensitive actions
+- 1C-like / ERP-style workflow automation
+- Back-office automation for documents, forms, dashboards, and spreadsheets
+- Hosted setup and custom integrations for businesses
 
 ## When I am useful
 
