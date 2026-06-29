@@ -1,27 +1,46 @@
 # Alexander Skorokhodov
 
-I build AI web operators and workflow automation systems for technical founders and teams.
+I build AI agents that automate real browser workflows.
 
-Current focus:
-- Browser-based AI agents that execute real web tasks
-- Human-in-the-loop approvals for sensitive actions
-- Local Chrome / desktop control for authenticated workflows
-- AI integrations for research, CRM, lead generation, and operations
-- Compute-gated API access experiments using BTX-style MatMul challenges
+I help founders and technical teams automate research, forms, dashboards, CRM updates, and internal web operations using supervised AI agents.
 
-## Main projects
+---
 
-### AI Web Operator
-A supervised browser agent architecture for executing real workflows:
-planning, page navigation, action execution, review, approvals, and state tracking.
+## What I do
 
-### BTX Agent Gateway
-Experimental API gateway using compute challenges as an access-control layer for AI agents.
+**Browser agents**  
+Agents that navigate websites, read pages, fill forms, and execute structured actions.
 
-### Workflow Integrations
-Custom integrations for founders: Telegram control, local browser execution, backend orchestration, CRM/research flows.
+**Human-in-the-loop automation**  
+Approval flows for sensitive actions: messages, payments, submissions, and account changes.
+
+**AI workflow integrations**  
+Telegram, Chrome, local desktop apps, backend APIs, CRMs, dashboards, and internal tools.
+
+**Fast technical prototypes**  
+MVPs for founders who need to test an AI workflow before building a full product.
+
+---
+
+## Projects
+
+**AI Web Operator**  
+Supervised browser agent architecture for real web workflows.
+
+**BTX Agent Gateway**  
+Compute-based access control experiments for AI agents.
+
+**Workflow Integrations**  
+Custom systems for browser automation, research flows, and internal operations.
+
+---
+
+## Best fit
+
+Founders and teams who have repetitive browser-based work and want to turn it into a reliable AI-assisted workflow.
+
+---
 
 ## Contact
 
-Telegram: @alexanderbtw  
-Website: alexanderskorokhodov.ru
+[Website](https://alexanderskorokhodov.ru) · [Telegram](https://t.me/alexanderbtw) · [LinkedIn](https://www.linkedin.com/in/alexander-skorokhodov/)
