@@ -22,6 +22,5 @@ TypeScript · Python · React · Node.js · FastAPI · PostgreSQL · Redis · Do
 
 ## Contact
 
-[![Website](https://img.shields.io/badge/Website-alexanderskorokhodov.ru-black)](https://alexanderskorokhodov.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@alexanderbtw-229ED9?logo=telegram&logoColor=white)](https://t.me/alexanderbtw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Skorokhodov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-skorokhodov/)
