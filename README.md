@@ -97,7 +97,7 @@ practical cases for companies including **VK, Sber, Rosatom, Lukoil** and
 ## Social media
 
 - [The future of finance is already here — LinkedIn post · 25K+ views](https://www.linkedin.com/posts/alexander-skorokhodov_ai-finance-trading-activity-7451962949247852544-WHD8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7rcOcBvLWYf--vL6xgYpsk8BeoJFJOrzw)
-- [The AI era for everything is ending — Threads post · 10K+ views](https://www.threads.com/@aa_skorohodov/post/DWQ_AXNjPKq?xmt=AQG0VB9z3NQU4L59Zar6afGMKZzDu2cBl3qXqACWcFm-Sg)
+- [The AI era for everything is ending — Threads post · 96.5K+ views](https://www.threads.com/@aa_skorohodov/post/DWQ_AXNjPKq?xmt=AQG0VB9z3NQU4L59Zar6afGMKZzDu2cBl3qXqACWcFm-Sg)
 
 ## Photo highlights
 
