@@ -1,6 +1,6 @@
-<div align="center" >
+<div>
 
-<img src="assets/profile/alexander-skorokhodov.jpg" width="180" height="180" alt="Alexander Skorokhodov" style="border-radius:50%; object-fit:cover;margin-top:2em">
+[//]: # (<img src="assets/profile/alexander-skorokhodov.jpg" width="180" height="180" alt="Alexander Skorokhodov" style="border-radius:50%; object-fit:cover;margin-top:2em">)
 
 # Alexander Skorokhodov
 
