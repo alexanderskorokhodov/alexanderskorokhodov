@@ -1,75 +1,116 @@
-<div>
-
-[//]: # (<img src="assets/profile/alexander-skorokhodov.jpg" width="180" height="180" alt="Alexander Skorokhodov" style="border-radius:50%; object-fit:cover;margin-top:2em">)
-
 # Alexander Skorokhodov
 
-**Backend Developer · Python · AI Systems**
+**Independent AI Systems Engineer · Business & Engineering Automation**
 
-I build backend systems for AI agents, real-time data processing and internal
-business automation.
+I design and build software that improves real business processes — from understanding the workflow and prototyping a solution to integrating it with existing systems.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@alexanderbtw-229ED9?logo=telegram&logoColor=white)](https://t.me/alexanderbtw)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander%20Skorokhodov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-skorokhodov/)
-[![GitHub](https://img.shields.io/badge/GitHub-alexanderskorokhodov-181717?logo=github&logoColor=white)](https://github.com/alexanderskorokhodov)
+My work combines applied AI, backend engineering, reliable automation and human-centered interfaces.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/alexander-skorokhodov/) · [Telegram](https://t.me/alexanderbtw) · [Threads](https://www.threads.com/@aa_skorohodov)
 
-## About
-
-I design and ship backend-heavy products where reliability, observability and
-safe automation matter. My work spans secure browser-agent runtimes, exchange
-data infrastructure and internal operations platforms.
-
-## At a glance
+## Selected engineering results
 
 <table>
 <tr>
-<td align="center"><b>200</b><br>browser actions per task</td>
-<td align="center"><b>500+</b><br>market instruments</td>
-<td align="center"><b>15</b><br>exchange integrations</td>
-<td align="center"><b>30 → 5 min</b><br>reporting time</td>
+<td align="center"><b>30 → 5 min</b><br>Report preparation</td>
+<td align="center"><b>250–800</b><br>Internal requests per month</td>
+<td align="center"><b>200</b><br>Browser actions per task</td>
+<td align="center"><b>500+</b><br>Market instruments</td>
 </tr>
 </table>
 
-## Featured engineering work
+## Selected work
 
-### Secure Browser Agent Runtime
+### Business Operations Platform
 
-`Python` `asyncio` `FastAPI` `PostgreSQL` `Docker` `React`
+**Workflow automation · Internal operations**
 
-Runtime for multi-step browser tasks executed in isolated Linux sessions.
+Built an internal platform to centralize operational requests, define responsibilities and make work status visible.
 
-- Supports tasks containing up to 200 browser actions
-- Separates planning, execution, state, verification and recovery
-- Provides human handoff for CAPTCHA, 2FA and sensitive actions
-- Keeps credentials outside LLM context, logs and artifacts
-- Uses evidence-backed completion checks
-
-[Read the public architecture case study →](https://github.com/alexanderskorokhodov/secure-web-agent-architecture)
-
-### Exchange Data Infrastructure
-
-`TypeScript` `WebSocket` `Redis` `Redpanda` `PostgreSQL`
-
-- Data ingestion for 500+ instruments across 15 exchanges
-- Unified REST and WebSocket integration layer
-- Rate limiting, retry/backoff and automatic reconnection
-- Peak incoming traffic up to 300 Mbit/s
-- Trading execution services for 8 exchanges
-
-Production code is private; implementation details was provided in showcase.
-
-[Read the public showcase →](https://github.com/alexanderskorokhodov/exchange-data-infrastructure-showcase)
-
-### Internal Operations Platform
+- Centralized workflows for 14 employees.
+- Processes 250–800 internal requests per month.
+- Models roles, statuses, transitions and deadlines.
+- Reduced status preparation from approximately 30 minutes to 5 minutes.
 
 `Python` `FastAPI` `PostgreSQL` `React`
 
-- Centralized work for 14 employees
-- Processes 250–800 internal requests per month
-- Models roles, statuses, transitions and deadlines
-- Reduced status preparation from approximately 30 minutes to 5 minutes
+### Secure Browser Agent Runtime
+
+**AI agents · Reliable execution**
+
+Built a runtime for multi-step browser tasks in isolated Linux sessions, with explicit execution state, recovery and completion checks.
+
+- Supports tasks containing up to 200 browser actions.
+- Separates planning, execution, state, verification and recovery.
+- Provides human handoff for CAPTCHA, 2FA and sensitive actions.
+- Keeps credentials outside LLM context, logs and artifacts.
+
+`Python` `asyncio` `FastAPI` `PostgreSQL` `Docker` `React`
+
+[Architecture case study →](https://github.com/alexanderskorokhodov/secure-web-agent-architecture)
+
+### Exchange Data Infrastructure
+
+**Real-time data · Distributed systems**
+
+Built infrastructure for collecting and processing market data across multiple exchanges through a unified integration layer.
+
+- 500+ market instruments across 15 exchanges.
+- Peak incoming traffic up to 300 Mbit/s.
+- Unified REST and WebSocket integrations, rate limiting, retry/backoff and automatic reconnection.
+- Trading execution services for eight exchanges.
+
+`TypeScript` `WebSocket` `Redis` `Redpanda` `PostgreSQL`
+
+[Engineering showcase →](https://github.com/alexanderskorokhodov/exchange-data-infrastructure-showcase)
+
+## Applied AI & pilot directions
+
+I am exploring focused software pilots around specific operational and engineering workflows. These are areas of development and investigation, not a list of completed deployments or confirmed client engagements.
+
+| Direction | Workflow |
+| --- | --- |
+| **Engineering automation** | Technical requirements, equipment selection, specifications and quotation preparation |
+| **Document intelligence** | Structured extraction, document comparison, requirements checking and source-backed retrieval |
+| **Operations intelligence** | Inventory, logistics, accountability, and process visibility |
+| **Claims automation** | Document review, warranty claims and exception handling |
+| **Data & visual intelligence** | Forecasting, image-based data extraction and operational analytics |
+| **Agent reliability & economics** | Agent evaluation, execution failures, cost analysis and human oversight |
+
+I focus on demonstrating a narrow, testable workflow before expanding it into a production system. Where appropriate, I share case studies and demonstrations; commercial pilot source code and proprietary implementation details remain private.
+
+## Engineering notes & research
+
+I write about questions that arise while building software and working with AI agents, including what fails, what needs verification and what changes in practice.
+
+Current topics:
+
+- Software development beyond code generation: requirements, architecture, testing, review and delivery.
+- Independent agent evaluation, failure recovery and evidence-backed completion.
+- Research methods that separate accumulated information from validated knowledge.
+- AI economics, resource efficiency and local-first systems.
+- Human-centered interfaces and design engineering.
+- Turning a business workflow into a measurable software pilot.
+
+Follow my writing on [LinkedIn](https://www.linkedin.com/in/alexander-skorokhodov/) and [Threads](https://www.threads.com/@aa_skorohodov).
+
+## Collaboration
+
+I am interested in working directly with businesses and implementation partners on applied AI and software automation: understanding an existing workflow, validating a focused pilot, and integrating a useful solution into the company's systems.
+
+If you have a process worth improving, [contact me on Telegram](https://t.me/alexanderbtw) or [LinkedIn](https://www.linkedin.com/in/alexander-skorokhodov/).
+
+## Stack
+
+**Backend:** Python, FastAPI, asyncio, SQLAlchemy, PostgreSQL, Redis<br>
+**Distributed systems:** Redpanda, WebSocket, REST API, Docker<br>
+**Frontend:** TypeScript, React<br>
+**AI systems:** LLM agents, MCP, browser automation, human-in-the-loop
+
+## Selected publications
+
+- [The future of finance is already here — LinkedIn post · 25K+ views](https://www.linkedin.com/posts/alexander-skorokhodov_ai-finance-trading-activity-7451962949247852544-WHD8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7rcOcBvLWYf--vL6xgYpsk8BeoJFJOrzw)
+- [The AI era for everything is ending — Threads post · 96.5K+ views](https://www.threads.com/@aa_skorohodov/post/DWQ_AXNjPKq?xmt=AQG0VB9z3NQU4L59Zar6afGMKZzDu2cBl3qXqACWcFm-Sg)
 
 ## Hackathons & recognition
 
@@ -87,19 +128,9 @@ Actively participated in hackathons and technology congresses, working on
 practical cases for companies including **VK, Sber, Rosatom, Lukoil** and
 **GeekBrains**.
 
-## Stack
+<details>
+<summary>Photos from competitions and engineering events</summary>
 
-**Backend:** Python, FastAPI, asyncio, SQLAlchemy, PostgreSQL, Redis<br>
-**Distributed systems:** Redpanda, WebSocket, REST API, Docker<br>
-**Frontend:** TypeScript, React<br>
-**AI systems:** LLM agents, MCP, browser automation, human-in-the-loop
-
-## Social media
-
-- [The future of finance is already here — LinkedIn post · 25K+ views](https://www.linkedin.com/posts/alexander-skorokhodov_ai-finance-trading-activity-7451962949247852544-WHD8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF7rcOcBvLWYf--vL6xgYpsk8BeoJFJOrzw)
-- [The AI era for everything is ending — Threads post · 96.5K+ views](https://www.threads.com/@aa_skorohodov/post/DWQ_AXNjPKq?xmt=AQG0VB9z3NQU4L59Zar6afGMKZzDu2cBl3qXqACWcFm-Sg)
-
-## Photo highlights
 
 <table>
 <tr>
@@ -139,9 +170,4 @@ practical cases for companies including **VK, Sber, Rosatom, Lukoil** and
 </tr>
 </table>
 
-## Contact
-
-For collaboration, backend architecture and AI-agent projects:
-
-- [Telegram · @alexanderbtw](https://t.me/alexanderbtw)
-- [LinkedIn · Alexander Skorokhodov](https://www.linkedin.com/in/alexander-skorokhodov/)
+</details>
