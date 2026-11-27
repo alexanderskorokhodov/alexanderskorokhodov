@@ -29,6 +29,21 @@ These figures are reproduced from the public profile. Measurement dates, detaile
 
 The public description identifies roles, statuses, transitions and deadlines. The reported stack is Python, FastAPI, PostgreSQL and React. Detailed architecture, client data, implementation and production configuration are outside this public brief.
 
+## Technical evaluation for a new implementation
+
+The following questions describe a suggested discovery and review process for a new deployment, not additional features claimed for the historical platform.
+
+| Area | What to establish with the customer | Suggested acceptance check |
+| --- | --- | --- |
+| Roles and permissions | Who can create, assign, update and close a request? | Authorized transitions succeed; unauthorized transitions are rejected |
+| Workflow state | What statuses and transitions are valid? | Invalid transitions do not modify the request |
+| Ownership | How is responsibility assigned or transferred? | The resulting responsible party is unambiguous |
+| Reporting | What data and time window should a report represent? | Report totals reconcile against the selected source records |
+| Integration | Which systems own the underlying data? | Agreed data contracts and failure behavior are exercised |
+| Operational impact | How long does the present workflow take? | Compare equivalent tasks before and after on an agreed sample |
+
+The public case establishes experience with internal requests and role/status workflows. Actual data contracts, access policies, integration details, test results and current production status would need separate evidence before drawing conclusions about a specific deployment.
+
 ## Relevance to other workflows
 
 The experience is relevant to internal request handling, responsibility assignment and operational reporting. Suitability for a new organization depends on its actual process, integration constraints and acceptance criteria.

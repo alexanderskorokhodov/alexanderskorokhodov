@@ -36,6 +36,8 @@ Built an internal platform to centralize operational requests, define responsibi
 
 `Python` `FastAPI` `PostgreSQL` `React`
 
+[Project brief and technical review →](projects/business-operations/README.md)
+
 ### Secure Browser Agent Runtime
 
 **AI agents · Reliable execution**
@@ -84,6 +86,8 @@ I focus on demonstrating a narrow, testable workflow before expanding it into a 
 ## Engineering notes & research
 
 I write about questions that arise while building software and working with AI agents, including what fails, what needs verification and what changes in practice.
+
+**Latest note:** [Code is only one part of software development](notes/code-is-only-one-part.md) — requirements, verification and independent agent-assisted review.
 
 Current topics:
 

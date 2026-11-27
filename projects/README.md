@@ -6,7 +6,7 @@ Selected engineering work for prospective customers and technical reviewers. Thi
 
 | Project | Business or engineering workflow | Public material |
 | --- | --- | --- |
-| Business Operations Platform | Internal requests, roles, responsibilities and status reporting | [Project brief](business-operations/README.md) |
+| Business Operations Platform | Internal requests, roles, responsibilities and status reporting | [Project brief & technical evaluation](business-operations/README.md) |
 | Secure Browser Agent Runtime | Multi-step browser automation, safe execution and human handoff | [Architecture case study](https://github.com/alexanderskorokhodov/secure-web-agent-architecture) |
 | Exchange Data Infrastructure | Real-time market data ingestion, normalization and delivery | [Architecture showcase](https://github.com/alexanderskorokhodov/exchange-data-infrastructure-showcase) |
 
@@ -17,6 +17,10 @@ Selected engineering work for prospective customers and technical reviewers. Thi
 **Secure Browser Agent Runtime:** lifecycle contracts, isolated execution, credential boundaries, human handoff and evidence-backed completion. The public case study describes the architecture; it is not an installable runtime.
 
 **Exchange Data Infrastructure:** 500+ instruments, 15 exchange integrations, peak ingress up to 300 Mbit/s, and reliability trade-offs. These are historical production figures described in the public showcase, not new benchmarks.
+
+## Engineering methodology
+
+[Code is only one part of software development](../notes/code-is-only-one-part.md) explains a proposed approach to requirements, implementation, verification and independent review.
 
 ## New projects and pilots
 
