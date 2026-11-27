@@ -87,7 +87,13 @@ I focus on demonstrating a narrow, testable workflow before expanding it into a 
 
 I write about questions that arise while building software and working with AI agents, including what fails, what needs verification and what changes in practice.
 
-**Latest note:** [Code is only one part of software development](notes/code-is-only-one-part.md) — requirements, verification and independent agent-assisted review.
+**Selected engineering notes:**
+
+- [Code is only one part of software development](notes/code-is-only-one-part.md) — the full development lifecycle.
+- [Independent AI agent review](notes/independent-ai-agent-review.md) — review evidence, responsibility and verification.
+- [From a business workflow to a software pilot](notes/from-business-workflow-to-software-pilot.md) — discovery, baseline and acceptance.
+
+[All engineering notes →](notes/README.md)
 
 Current topics:
 

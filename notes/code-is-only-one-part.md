@@ -71,6 +71,9 @@ No comparative benchmark is presented in this note. The workflow is a proposed m
 
 ## Related work
 
+- [Independent AI agent review](independent-ai-agent-review.md): a more detailed proposed review protocol.
+- [From a business workflow to a software pilot](from-business-workflow-to-software-pilot.md): discovery and acceptance of a bounded workflow.
+
 - [Secure Browser Agent — Architecture Case Study](https://github.com/alexanderskorokhodov/secure-web-agent-architecture): an existing public architecture example that separates execution from completion verification.
 - [Business Operations Platform](../projects/business-operations/README.md): a public project brief about roles, statuses and operational workflows.
 

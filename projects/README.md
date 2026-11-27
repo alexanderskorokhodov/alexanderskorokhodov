@@ -22,6 +22,8 @@ Selected engineering work for prospective customers and technical reviewers. Thi
 
 [Code is only one part of software development](../notes/code-is-only-one-part.md) explains a proposed approach to requirements, implementation, verification and independent review.
 
+For a proposed pilot process, see [From a business workflow to a software pilot](../notes/from-business-workflow-to-software-pilot.md).
+
 ## New projects and pilots
 
 See [applied AI directions](../README.md#applied-ai--pilot-directions) for areas being explored. New case studies and demonstrations are added only after readiness and publication rights are established. No pilot is represented as a commissioned deployment without evidence.
