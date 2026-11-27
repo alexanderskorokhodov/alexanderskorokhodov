@@ -8,6 +8,8 @@ My work combines applied AI, backend engineering, reliable automation and human-
 
 [LinkedIn](https://www.linkedin.com/in/alexander-skorokhodov/) · [Telegram](https://t.me/alexanderbtw) · [Threads](https://www.threads.com/@aa_skorohodov)
 
+[Project portfolio](projects/README.md) · [Engineering notes](notes/README.md) · [Research](research/README.md)
+
 ## Selected engineering results
 
 <table>
